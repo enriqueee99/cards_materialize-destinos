@@ -1,0 +1,50 @@
+/**{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	17 y 25
+
+}*/
+
+body{
+background: url(img/pexels.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: 'Dancing Scritpt', cursive;
+	margin-bottom: 40px;
+	color:#000;
+}
+
+.subtitulo{
+	margin:0;
+	font-size: 50px;
+	text-transform: uppercase;
+	color:#000;
+	font-weight: 500;
+	display: inline;
+}
+
+.card .card-title{
+	 user-select: none;
+}
+
+.card .card-image img{
+	height: 200px;
+	width: 100%;
+}
+
+.card .card-content{
+	height: 135px;
+	width: 100%;
+}
+
+
+
+
